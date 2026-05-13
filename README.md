@@ -44,8 +44,3 @@ A business analytics project focused on grocery sales performance, outlet analys
 3. Explore dashboards, pivot tables, and visual reports
 4. Interact with filters and slicers for analysis
 
----
-
-
-```md
-![Dashboard Preview](screenshots/dashboard-preview.png)
