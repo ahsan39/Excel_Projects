@@ -12,6 +12,8 @@ The projects demonstrate the use of Excel for transforming raw datasets into mea
 
 A business analytics project focused on grocery sales performance, outlet analysis, customer trends, and KPI reporting.
 
+<img width="1037" height="547" alt="image" src="https://github.com/user-attachments/assets/23ae832e-2601-4ef7-a83b-d47012a4f6de" />
+
 
 # 🛠 Tools & Techniques Used
 
